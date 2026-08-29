@@ -1,6 +1,6 @@
 #!/system/bin/sh
 
-MODID=your_module_id
+MODID=gsi-brightness-fix
 AUTOMOUNT=true
 PROPFILE=false
 POSTFSDATA=false
