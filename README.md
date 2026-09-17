@@ -11,4 +11,4 @@ Device: Infinix Hot 12 Pro (X668C)
 
 Firmware: Pixel Experience 12 (GSI)
 
-Magisk: v25.2
+Magisk: v26.0
