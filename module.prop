@@ -1,0 +1,6 @@
+id=igbf
+name=Infinix GSI Brightness Fix
+version=v2.8
+versionCode=280001
+author=auxmeet & iromenero
+description=Max brightness on Infinix for GSI. For Magisk 26.4+.
